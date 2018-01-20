@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-test",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-test",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahojtony/ahoj.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahojtony/ahoj/issues"
+  },
+  "homepage": "https://github.com/ahojtony/ahoj#readme"
+}
